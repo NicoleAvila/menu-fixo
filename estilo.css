@@ -1,0 +1,28 @@
+﻿nav {
+    position: fixed;
+    text-decoration: none;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    background-color: #000;
+    padding: 10px;
+}
+
+    nav a {
+        color: #FFF;
+        margin-top: 10px;
+        background-color: #FF0000;
+        text-decoration: none;
+        margin: 10px;
+        padding: 10px;
+    }
+
+body {
+    margin-top: 150px;
+}
+
+p {
+    font-size: 30px;
+    margin: 50px;
+}
